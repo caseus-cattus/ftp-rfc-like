@@ -1,3 +1,6 @@
 .git/
 .idea/
 .vscode/
+*.o
+server/server
+client/client

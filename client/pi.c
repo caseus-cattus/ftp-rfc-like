@@ -11,7 +11,7 @@ int pi_disconnect(int sock) {
 }
 
 
-int send_command(void) {                            // TODO replace void on command enum
+int send_command(int command) {
     /* code */
     return 0;
 }

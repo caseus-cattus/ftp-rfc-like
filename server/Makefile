@@ -2,7 +2,7 @@
 
 CC=gcc
 DEBUG=-g -Wall
-FLAGS=-O
+FLAGS=-O -lpthread
 OBJ=$(CC) $(FLAGS) -c
 
 
